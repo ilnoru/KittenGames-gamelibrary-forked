@@ -1,26 +1,22 @@
 [
   {
-    "id": "cuttherope",
     "name": "Cut The Rope",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png",
     "url": "https://turbowarp.org/669250336/embed?hqpen"
   },
   {
-    "id": "rising-lava",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/risinglava.png",
     "name": "Rising Lava",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/risinglava.png",
     "url": "https://turbowarp.org/944715656/embed"
   },
   {
-    "id": "virtuaracing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/virtuaracing.png",
     "name": "Virtua Racing",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/virtuaracing.png",
     "url": "https://turbowarp.org/977543606/embed"
   },
   {
-    "id": "prism",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/prism.png",
     "name": "Prism",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/prism.png",
     "url": "https://turbowarp.org/127030178/embed?hqpen"
   }
 ]
