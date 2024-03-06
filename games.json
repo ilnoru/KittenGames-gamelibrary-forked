@@ -23,5 +23,10 @@
     "name": "Drift Boss",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/Driftboss.png",
     "url": "https://www.hoodamath.com/mobile/games/drift-boss/game.html"
+  },
+  {
+    "name": "Eggy Car",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/eggycar.jpeg",
+    "url": "https://www.hoodamath.com/mobile/games/eggy-car/game.html"
   }
 ]
