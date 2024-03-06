@@ -23,5 +23,10 @@
     "name": "Drift Boss",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/Driftboss.png",
     "url": "https://www.hoodamath.com/mobile/games/drift-boss/game.html"
+  },
+  {
+    "name": "Flappy Bird",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
+    "url": "https://www.hoodamath.com/mobile/games/flappy-bird/game.html"
   }
 ]
