@@ -28,5 +28,10 @@
     "name": "Flappy Bird",
     "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
     "url": "https://www.hoodamath.com/mobile/games/flappy-bird/game.html"
+  },
+  {
+    "name": "Eggy Car",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/eggycar.jpeg",
+    "url": "https://ubg98.github.io/EggyCar/"
   }
 ]
