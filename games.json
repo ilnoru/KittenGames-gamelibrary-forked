@@ -33,5 +33,10 @@
     "name": "Eggy Car",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/eggycar.jpeg",
     "url": "https://ubg98.github.io/EggyCar/"
+  },
+  {
+    "name": "OVO",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/ovo.jpeg",
+    "url": "https://purepro4561.github.io/OvO/"
   }
 ]
