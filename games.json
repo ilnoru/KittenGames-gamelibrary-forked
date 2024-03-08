@@ -73,5 +73,10 @@
     "name": "Moto X3M",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg",
     "url": "https://3kho.github.io/projects/motox3m/index.html"
+  },
+  {
+    "name": "Tunnel Rush",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tunnelrush.jpeg",
+    "url": "https://3kho.github.io/projects/tunnel-rush/index.html"
   }
 ]
