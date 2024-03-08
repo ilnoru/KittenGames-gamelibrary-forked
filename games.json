@@ -53,5 +53,15 @@
     "name": "Doodle Jump",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/doodle-removebg-preview.png",
     "url": "https://23azostore.github.io/s7/doodle-jump"
+  },
+  {
+    "name": "Murder",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/murder.png",
+    "url": "https://23azostore.github.io/s5/murder/"
+  },
+  {
+    "name": "Tomb of the mask",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tombofthemask.png",
+    "url": "https://23azostore.github.io/s8/tomb-of-the-mask/"
   }
 ]
