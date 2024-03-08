@@ -63,5 +63,10 @@
     "name": "Tomb of the mask",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tombofthemask.png",
     "url": "https://23azostore.github.io/s8/tomb-of-the-mask/"
+  },
+  {
+    "name": "Smash Karts",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/smashcarts.jpeg",
+    "url": "https://23azostore.github.io/s/smash-karts/"
   }
 ]
