@@ -68,5 +68,10 @@
     "name": "Smash Karts",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/smashcarts.jpeg",
     "url": "https://23azostore.github.io/s/smash-karts/"
+  },
+  {
+    "name": "Moto X3M",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg",
+    "url": "https://3kho.github.io/projects/motox3m/index.html"
   }
 ]
