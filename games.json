@@ -83,5 +83,10 @@
     "name": "Paper.io 2",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/paperio.jpeg",
     "url": "https://3kho.github.io/projects/paperio2/index.html"
+  },
+  {
+    "name": "Cats",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cats.jpeg",
+    "url": "https://23azostore.github.io/s4/cats/"
   }
 ]
