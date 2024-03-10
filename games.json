@@ -88,5 +88,10 @@
     "name": "Cats",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cats.jpeg",
     "url": "https://23azostore.github.io/s4/cats/"
+  },
+  {
+    "name": "Gold Digger",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/golddigger.jpeg",
+    "url": "https://23azostore.github.io/s4/gold-digger-frvr/"
   }
 ]
