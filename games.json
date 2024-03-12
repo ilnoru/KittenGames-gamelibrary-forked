@@ -103,5 +103,30 @@
     "name": "Crossy Road",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/crossyroad.jpeg",
     "url": "https://boxing2.github.io/b/crossy-road/"
+  },
+  {
+    "name": "Stack Bounce",
+    "image": "https://webglmath.github.io/stackbounce/logo.png",
+    "url": "https://webglmath.github.io/stackbounce/"
+  },
+  {
+    "name": "1v1 LOL",
+    "image": "https://webglmath.github.io/1v1-lol/logo.png",
+    "url": "https://webglmath.github.io/1v1-lol/"
+  },
+  {
+    "name": "Mr Bullet",
+    "image": "https://webglmath.github.io/mr-bullet/logo.png",
+    "url": "https://webglmath.github.io/mr-bullet/"
+  },
+  {
+    "name": "Drive Mad",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/drivemad.jpeg",
+    "url": "https://ubg77.github.io/game131022/drive-mad/"
+  },
+  {
+    "name": "Mad Gunz",
+    "image": "https://webglmath.github.io/mad-gunz/logo.png",
+    "url": "https://webglmath.github.io/mad-gunz/"
   }
 ]
