@@ -133,5 +133,10 @@
     "name": "Worlds Hardest Game",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/hardestgame.jpeg",
     "url": "https://webglmath.github.io/worlds-hardest-game/"
+  },
+  {
+    "name": "Blumgi Rocket",
+    "image": "https://webglmath.github.io/blumgi-rocket/logo.png",
+    "url": "https://webglmath.github.io/blumgi-rocket/"
   }
 ]
