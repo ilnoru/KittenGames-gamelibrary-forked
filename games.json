@@ -158,5 +158,10 @@
     "name": "Temple Run",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/templerun.png",
     "url": "https://lite.3kh0.net/projects/temple-run-2/"
+  },
+  {
+    "name": "HexGL",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/HexGL.png",
+    "url": "https://lite.3kh0.net/projects/HexGL/"
   }
 ]
