@@ -138,5 +138,20 @@
     "name": "Blumgi Rocket",
     "image": "https://webglmath.github.io/blumgi-rocket/logo.png",
     "url": "https://webglmath.github.io/blumgi-rocket/"
+  },
+  {
+    "name": "Bitlife",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bitlife.png",
+    "url": "https://1727859.github.io/cyanidegames/bitlife/index.html"
+  },
+  {
+    "name": "Just Fall",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/justfall.png",
+    "url": "https://1727859.github.io/cyanidegames/just-fall/index.html#"
+  },
+  {
+    "name": "Earn To Die",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/etd.jpeg",
+    "url": "https://unblockedgamesworlds.github.io/earn-to-die/"
   }
 ]
