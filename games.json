@@ -173,5 +173,10 @@
     "name": "Cube Field",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cubefield.jpeg",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=cubefield.swf"
+  },
+  {
+    "name": "Tetris",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tetris.jpeg",
+    "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=tetris.swf"
   }
 ]
