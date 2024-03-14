@@ -193,5 +193,10 @@
     "name": "Dante",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/dante.png",
     "url": "https://skoolgq.github.io/Polaris-Assets/dante/"
+  },
+  {
+    "name": "Fruit Ninja",
+    "image": "https://raw.githubusercontent.com/Skoolgq/Polaris-Assets/main/fruit-ninja/FruitNinjaTeaser.jpg",
+    "url": "https://skoolgq.github.io/Polaris-Assets/fruit-ninja/"
   }
 ]
