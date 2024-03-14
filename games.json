@@ -183,5 +183,10 @@
     "name": "2048",
     "image": "https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/html5/2048/"
+  },
+  {
+    "name": "Stickman Hook",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/stickman.jpeg",
+    "url": "https://seraph.reveriestudios.online/games/stickmanhook/index.html"
   }
 ]
