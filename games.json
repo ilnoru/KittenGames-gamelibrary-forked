@@ -178,5 +178,10 @@
     "name": "Tetris",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tetris.jpeg",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=tetris.swf"
+  },
+  {
+    "name": "2048",
+    "image": "https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png",
+    "url": "https://binbashbanana.github.io/gfiles/gfiles/html5/2048/"
   }
 ]
