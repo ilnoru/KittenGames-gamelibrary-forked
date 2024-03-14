@@ -188,5 +188,10 @@
     "name": "Stickman Hook",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/stickman.jpeg",
     "url": "https://seraph.reveriestudios.online/games/stickmanhook/index.html"
+  },
+  {
+    "name": "Dante",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/dante.png",
+    "url": "https://skoolgq.github.io/Polaris-Assets/dante/"
   }
 ]
