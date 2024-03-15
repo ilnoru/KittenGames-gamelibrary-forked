@@ -208,5 +208,10 @@
     "name": "Subway Surfers",
     "image": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
     "url": "https://skoolgq.github.io/Polaris-Assets/subway-surfers/"
+  },
+  {
+    "name": "Snail Bob 8",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/snailbob8.jpeg",
+    "url": "https://ubg98.github.io/SnailBob8/"
   }
 ]
