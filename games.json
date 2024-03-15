@@ -203,5 +203,10 @@
     "name": "Townscraper",
     "image": "https://raw.githubusercontent.com/Skoolgq/Polaris-Assets/main/townscaper/img/sample.png",
     "url": "https://skoolgq.github.io/Polaris-Assets/townscaper/"
+  },
+  {
+    "name": "Subway Surfers",
+    "image": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
+    "url": "https://skoolgq.github.io/Polaris-Assets/subway-surfers/"
   }
 ]
