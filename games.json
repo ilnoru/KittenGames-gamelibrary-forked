@@ -198,5 +198,10 @@
     "name": "Fruit Ninja",
     "image": "https://raw.githubusercontent.com/Skoolgq/Polaris-Assets/main/fruit-ninja/FruitNinjaTeaser.jpg",
     "url": "https://skoolgq.github.io/Polaris-Assets/fruit-ninja/"
+  },
+  {
+    "name": "Townscraper",
+    "image": "https://raw.githubusercontent.com/Skoolgq/Polaris-Assets/main/townscaper/img/sample.png",
+    "url": "https://skoolgq.github.io/Polaris-Assets/townscaper/"
   }
 ]
