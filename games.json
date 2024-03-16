@@ -218,5 +218,10 @@
     "name": "Jack Smith",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/jacksmith.jpeg",
     "url": "https://codingkitten-yt.github.io/gamez/jacksmith/jacksmith.html"
+  },
+  {
+    "name": "Time Shooter 2",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/timeshooter-removebg-preview.png",
+    "url": "https://codingkitten-yt.github.io/gamez/time-shooter-2/ts2.html"
   }
 ]
