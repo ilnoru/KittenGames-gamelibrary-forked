@@ -238,5 +238,10 @@
     "name": "CircloO",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/circloo.png",
     "url": "https://ubg98.github.io/CircloO2/"
+  },
+  {
+    "name": "Hobo",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/hobo.jpg",
+    "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=hobo.swf"
   }
 ]
