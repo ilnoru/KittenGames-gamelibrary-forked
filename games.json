@@ -213,5 +213,10 @@
     "name": "Snail Bob 8",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/snailbob8.jpeg",
     "url": "https://ubg98.github.io/SnailBob8/"
+  },
+  {
+    "name": "Jack Smith",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/jacksmith.jpeg",
+    "url": "https://codingkitten-yt.github.io/gamez/jacksmith/jacksmith.html"
   }
 ]
