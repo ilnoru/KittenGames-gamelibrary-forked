@@ -3,240 +3,288 @@
     "name": "Cut The Rope",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png",
     "url": "https://lite.3kh0.net/projects/ctr/"
+    "category": "Puzzle"
   },
   {
     "name": "Rising Lava",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/risinglava.png",
     "url": "https://turbowarp.org/944715656/embed"
+    "category": "Skill"
   },
   {
     "name": "Virtua Racing",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/virtuaracing.png",
     "url": "https://turbowarp.org/977543606/embed"
+    "category": "Cars"
   },
   {
     "name": "Prism",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/prism.png",
     "url": "https://turbowarp.org/127030178/embed?hqpen"
+    "category": "Puzzle"
   },
   {
     "name": "Drift Boss",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Driftboss.png",
     "url": "https://www.hoodamath.com/mobile/games/drift-boss/game.html"
+    "category": "Cars"
   },
   {
     "name": "Flappy Bird",
     "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
     "url": "https://www.hoodamath.com/mobile/games/flappy-bird/game.html"
+    "category": "Skill"
   },
   {
     "name": "Eggy Car",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/eggycar.jpeg",
     "url": "https://ubg98.github.io/EggyCar/"
+    "category": "Cars"
   },
   {
     "name": "OVO",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/ovo.jpeg",
     "url": "https://purepro4561.github.io/OvO/"
+    "category": "Skill"
   },
   {
     "name": "Slope",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Slope.jpeg",
     "url": "https://23azostore.github.io/s/slope"
+    "category": "Skill"
   },
   {
     "name": "Monster Tracks",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/monstertrack.jpeg",
     "url": "https://23azostore.github.io/s5/monster-tracks"
+    "category": "Cars"
   },
   {
     "name": "Doodle Jump",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/doodle-removebg-preview.png",
     "url": "https://23azostore.github.io/s7/doodle-jump"
+    "category": "Skill"
   },
   {
     "name": "Murder",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/murder.png",
     "url": "https://23azostore.github.io/s5/murder/"
+    "category": "Puzzle"
   },
   {
     "name": "Tomb of the mask",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tombofthemask.png",
     "url": "https://23azostore.github.io/s8/tomb-of-the-mask/"
+    "category": "Skill"
   },
   {
     "name": "Smash Karts",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/smashcarts.jpeg",
     "url": "https://23azostore.github.io/s/smash-karts/"
+    "category": "Cars"
   },
   {
     "name": "Moto X3M",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg",
     "url": "https://3kho.github.io/projects/motox3m/index.html"
+    "category": "Cars"
   },
   {
     "name": "Tunnel Rush",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tunnelrush.jpeg",
     "url": "https://3kho.github.io/projects/tunnel-rush/index.html"
+    "category": "Skill"
   },
   {
     "name": "Paper.io 2",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/paperio.jpeg",
     "url": "https://3kho.github.io/projects/paperio2/index.html"
+    "category": "Casual"
   },
   {
     "name": "Cats",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cats.jpeg",
     "url": "https://23azostore.github.io/s4/cats/"
+    "category": "Casual"
   },
   {
     "name": "Gold Digger",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/golddigger.jpeg",
     "url": "https://23azostore.github.io/s4/gold-digger-frvr/"
+    "category": "Casual"
   },
   {
     "name": "Tiny Fishing",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tinyfishing.jpeg",
     "url": "https://23azostore.github.io/s/tiny-fishing/"
+    "category": "Casual"
   },
   {
     "name": "Crossy Road",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/crossyroad.jpeg",
     "url": "https://boxing2.github.io/b/crossy-road/"
+    "category": "Skill"
   },
   {
     "name": "Stack Bounce",
     "image": "https://webglmath.github.io/stackbounce/logo.png",
     "url": "https://webglmath.github.io/stackbounce/"
+    "category": "Puzzle"
   },
   {
     "name": "1v1 LOL",
     "image": "https://webglmath.github.io/1v1-lol/logo.png",
     "url": "https://webglmath.github.io/1v1-lol/"
+    "category": "Skill"
   },
   {
     "name": "Mr Bullet",
     "image": "https://webglmath.github.io/mr-bullet/logo.png",
     "url": "https://webglmath.github.io/mr-bullet/"
+    "category": "Puzzle"
   },
   {
     "name": "Drive Mad",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/drivemad.jpeg",
     "url": "https://ubg77.github.io/game131022/drive-mad/"
+    "category": "Cars"
   },
   {
     "name": "Mad Gunz",
     "image": "https://webglmath.github.io/mad-gunz/logo.png",
     "url": "https://webglmath.github.io/mad-gunz/"
+    "category": "Skill"
   },
   {
     "name": "Worlds Hardest Game",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/hardestgame.jpeg",
     "url": "https://webglmath.github.io/worlds-hardest-game/"
+    "category": "Skill"
   },
   {
     "name": "Blumgi Rocket",
     "image": "https://webglmath.github.io/blumgi-rocket/logo.png",
     "url": "https://webglmath.github.io/blumgi-rocket/"
+    "category": "Casual"
   },
   {
     "name": "Bitlife",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bitlife.png",
     "url": "https://1727859.github.io/cyanidegames/bitlife/index.html"
+    "category": "Casual"
   },
   {
     "name": "Just Fall",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/justfall.png",
     "url": "https://1727859.github.io/cyanidegames/just-fall/index.html#"
+    "category": "Skill"
   },
   {
     "name": "Earn To Die",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/etd.jpeg",
     "url": "https://unblockedgamesworlds.github.io/earn-to-die/"
+    "category": "Casual"
   },
   {
     "name": "Temple Run",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/templerun.png",
     "url": "https://lite.3kh0.net/projects/temple-run-2/"
+    "category": "Skill"
   },
   {
     "name": "HexGL",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/HexGL.png",
     "url": "https://lite.3kh0.net/projects/HexGL/"
+    "category": "Cars"
   },
   {
     "name": "Cookie Clicker",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cookieclicker.png",
     "url": "https://derpmandev.github.io/unblocked-games/cookieclicker/"
+    "category": "Casual"
   },
   {
     "name": "Cube Field",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cubefield.jpeg",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=cubefield.swf"
+    "category": "Skill"
   },
   {
     "name": "Tetris",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tetris.jpeg",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=tetris.swf"
+    "category": "Puzzle"
   },
   {
     "name": "2048",
     "image": "https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/html5/2048/"
+    "category": "Puzzle"
   },
   {
     "name": "Stickman Hook",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/stickman.jpeg",
     "url": "https://seraph.reveriestudios.online/games/stickmanhook/index.html"
+    "category": "Puzzle"
   },
   {
     "name": "Dante",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/dante.png",
     "url": "https://skoolgq.github.io/Polaris-Assets/dante/"
+    "category": "Skill"
   },
   {
     "name": "Fruit Ninja",
     "image": "https://raw.githubusercontent.com/Skoolgq/Polaris-Assets/main/fruit-ninja/FruitNinjaTeaser.jpg",
     "url": "https://skoolgq.github.io/Polaris-Assets/fruit-ninja/"
+    "category": "Casual"
   },
   {
     "name": "Townscraper",
     "image": "https://raw.githubusercontent.com/Skoolgq/Polaris-Assets/main/townscaper/img/sample.png",
     "url": "https://skoolgq.github.io/Polaris-Assets/townscaper/"
+    "category": "Casual"
   },
   {
     "name": "Subway Surfers",
     "image": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
     "url": "https://skoolgq.github.io/Polaris-Assets/subway-surfers/"
+    "category": "Skill"
   },
   {
     "name": "Snail Bob 8",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/snailbob8.jpeg",
     "url": "https://ubg98.github.io/SnailBob8/"
+    "category": "Puzzle"
   },
   {
     "name": "Jack Smith",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/jacksmith.jpeg",
     "url": "https://gamez-ebon.vercel.app/jacksmith/jacksmith.html"
+    "category": "Casual"
   },
   {
     "name": "Time Shooter 2",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/timeshooter-removebg-preview.png",
     "url": "https://gamez-ebon.vercel.app/time-shooter-2/ts2.html"
+    "category": "Skill"
   },
   {
     "name": "Happy Wheels",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/happywheel.jpeg",
     "url": "https://gamez-ebon.vercel.app/happywheels/"
+    "category": "Casual"
   },
   {
     "name": "Block Post",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/blockpost.jpeg",
     "url": "https://76ezgames.github.io/unblocked/blockpost.html"
+    "category": "Skill"
   },
   {
     "name": "CircloO",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/circloo.png",
     "url": "https://ubg98.github.io/CircloO2/"
+    "category": "Puzzle"
   }
 ]
