@@ -223,5 +223,10 @@
     "name": "Time Shooter 2",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/timeshooter-removebg-preview.png",
     "url": "https://codingkitten-yt.github.io/gamez/time-shooter-2/ts2.html"
+  },
+  {
+    "name": "Happy Wheels",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/happywheel.jpeg",
+    "url": "https://codingkitten-yt.github.io/gamez/happywheels/"
   }
 ]
