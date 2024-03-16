@@ -228,5 +228,10 @@
     "name": "Happy Wheels",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/happywheel.jpeg",
     "url": "https://gamez-ebon.vercel.app/happywheels/"
+  },
+  {
+    "name": "Block Post",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/blockpost.jpeg",
+    "url": "https://76ezgames.github.io/unblocked/blockpost.html"
   }
 ]
