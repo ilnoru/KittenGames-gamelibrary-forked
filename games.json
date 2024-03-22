@@ -278,5 +278,10 @@
     "name": "Fuild Simulation",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/fluids.png",
     "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
+  },
+  {
+    "name": "Emptiness",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/5fe89111-51f5-4ab7-a81c-3930e05c16ae.png",
+    "url": "https://codingkitten-yt.github.io/Emptiness/"
   }
 ]
