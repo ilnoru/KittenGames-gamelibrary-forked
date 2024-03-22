@@ -273,5 +273,10 @@
     "name": "Sandboxels",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/sandboxels.png",
     "url": "https://sandboxels.r74n.com/"
+  },
+  {
+    "name": "Fuild Simulation",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/fluids.png",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
   }
 ]
