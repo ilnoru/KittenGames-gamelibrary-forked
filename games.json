@@ -283,5 +283,10 @@
     "name": "Emptiness",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/5fe89111-51f5-4ab7-a81c-3930e05c16ae.png",
     "url": "https://codingkitten-yt.github.io/Emptiness/"
+  },
+  {
+    "name": "Snake",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Screenshot%202024-03-22%2018.00.13.png",
+    "url": "https://codingkitten-yt.github.io/Snake/"
   }
 ]
