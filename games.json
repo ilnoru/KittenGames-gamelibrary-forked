@@ -298,5 +298,10 @@
     "name": "Mario Kart 64",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/mariokart64.jpeg",
     "url": "https://codingkitten-yt.github.io/retrogames/MarioKart64.html"
+  },
+  {
+    "name": "Ice Cube Smash",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/icecubesmash.png",
+    "url": "https://codingkitten-yt.github.io/quickmath/cube.html"
   }
 ]
