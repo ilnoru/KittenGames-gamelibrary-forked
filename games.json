@@ -288,5 +288,15 @@
     "name": "Snake",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Screenshot%202024-03-22%2018.00.13.png",
     "url": "https://codingkitten-yt.github.io/Snake/"
+  },
+  {
+    "name": "Super Mario Bros",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/MarioBros.png",
+    "url": "https://codingkitten-yt.github.io/retrogames/Mario.html"
+  },
+  {
+    "name": "Mario Kart 64",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/mariokart64.jpeg",
+    "url": "https://codingkitten-yt.github.io/retrogames/MarioKart64.html"
   }
 ]
