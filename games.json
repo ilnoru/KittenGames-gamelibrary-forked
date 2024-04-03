@@ -308,5 +308,10 @@
     "name": "Incredibox",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/incredibox.png",
     "url": "https://darkreaper231.github.io/Incredibox/"
+  },
+  {
+    "name": "Osu",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/osu.png",
+    "url": "https://webosu.mirrorange.com/"
   }
 ]
