@@ -313,5 +313,10 @@
     "name": "Osu",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/osu.png",
     "url": "https://webosu.mirrorange.com/"
+  },
+  {
+    "name": "Android",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/google-play.svg",
+    "url": "https://newalgebra.com/apps/aptoide/5874/aptoide.html"
   }
 ]
