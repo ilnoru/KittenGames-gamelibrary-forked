@@ -320,8 +320,13 @@
     "url": "https://codingkitten-yt.github.io/in-new-tab?url=https://newalgebra.com/apps/aptoide/5874/aptoide.html"
   },
   {
-    "name": "2048",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/2048/logo.png",
+    "name": "Windows",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/windows-10.png",
+    "url": "https://codingkitten-yt.github.io/in-new-tab/?url=app.apponfly.com/trial"
+  },
+  {
+    "name": "Linux",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/linux.png",
     "url": "https://codingkitten-yt.github.io/alu-games/2048/"
   },
   {
