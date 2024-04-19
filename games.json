@@ -286,8 +286,8 @@
   },
   {
     "name": "Snake",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Screenshot%202024-03-22%2018.00.13.png",
-    "url": "https://codingkitten-yt.github.io/Snake/"
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/google-snake/snake.webp",
+    "url": "https://codingkitten-yt.github.io/alu-games/google-snake/"
   },
   {
     "name": "Super Mario Bros",
@@ -318,5 +318,25 @@
     "name": "Android",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/google-play.svg",
     "url": "https://codingkitten-yt.github.io/in-new-tab?url=https://newalgebra.com/apps/aptoide/5874/aptoide.html"
+  },
+  {
+    "name": "2048",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/2048/logo.png",
+    "url": "https://codingkitten-yt.github.io/alu-games/2048/"
+  },
+  {
+    "name": "Cookie Clicker",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/cookie-clicker/logo.png",
+    "url": "https://codingkitten-yt.github.io/alu-games/cookie-clicker/"
+  },
+  {
+    "name": "Death Run",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/death-run-3d/logo.png",
+    "url": "https://codingkitten-yt.github.io/alu-games/death-run-3d/"
+  },
+  {
+    "name": "Chrome Dino",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/chrome-dino/logo.png",
+    "url": "https://codingkitten-yt.github.io/alu-games/chrome-dino//"
   }
 ]
