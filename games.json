@@ -342,6 +342,16 @@
   {
     "name": "Chrome Dino",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/chrome-dino/logo.png",
-    "url": "https://codingkitten-yt.github.io/alu-games/chrome-dino//"
+    "url": "https://codingkitten-yt.github.io/alu-games/chrome-dino/"
+  },
+  {
+    "name": "Monkey Mart",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/monkeymart.jpeg",
+    "url": "https://silkmajoritydifference.github.io/sources/monkey-mart"
+  },
+  {
+    "name": "Basket Random",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png",
+    "url": "https://silkmajoritydifference.github.io/basket-random/"
   }
 ]
