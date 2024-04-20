@@ -368,5 +368,10 @@
     "name": "Gladi Hoppers",
     "image": "https://qst2r.github.io/NEPTUNE-GAMES/gladihoppers/thumb.png",
     "url": "https://qst2r.github.io/NEPTUNE-GAMES/gladihoppers/index.html"
+  },
+  {
+    "name": "Chess",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/chess.png",
+    "url": "https://car-axke.onrender.com/chess/index.html"
   }
 ]
