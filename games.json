@@ -353,5 +353,10 @@
     "name": "Basket Random",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png",
     "url": "https://silkmajoritydifference.github.io/basket-random/"
+  },
+  {
+    "name": "Gun Mayhem",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/gunmayham.jpeg",
+    "url": "https://silkmajoritydifference.github.io/gun-mayhem-2/"
   }
 ]
