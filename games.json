@@ -147,7 +147,7 @@
   {
     "name": "Just Fall",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/justfall.png",
-    "url": "https://1727859.github.io/cyanidegames/just-fall/index.html"
+    "url": "https://car-axke.onrender.com/justfalllol/index.html"
   },
   {
     "name": "Earn To Die",
@@ -370,8 +370,38 @@
     "url": "https://qst2r.github.io/NEPTUNE-GAMES/gladihoppers/index.html"
   },
   {
-    "name": "Chess",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/chess.png",
-    "url": "https://car-axke.onrender.com/chess/index.html"
+    "name": "Chibi Knight",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/chibiknight.jpeg",
+    "url": "https://car-axke.onrender.com/chibiknight/index.html"
+  },
+  {
+    "name": "Fireboy and Watergirl",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/fireboyandwatergirl.jpeg",
+    "url": "https://car-axke.onrender.com/fireboywatergirl/index.html"
+  },
+  {
+    "name": "Knife Hit",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/knifehit.png",
+    "url": "https://car-axke.onrender.com/knifehit/index.html"
+  },
+  {
+    "name": "Last Horizon",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/LastHorizonImage.png",
+    "url": "https://car-axke.onrender.com/lasthorizon/index.html"
+  },
+  {
+    "name": "Offline Paradise",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/offlineparadise.png",
+    "url": "https://car-axke.onrender.com/offlineparadise/index.html"
+  },
+  {
+    "name": "Stack",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/stack.png",
+    "url": "https://car-axke.onrender.com/stack/index.html"
+  },
+  {
+    "name": "Zombocalypse",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/zombieapocalypse.jpeg",
+    "url": "https://car-axke.onrender.com/zombocalypse/index.html"
   }
 ]
