@@ -358,5 +358,15 @@
     "name": "Gun Mayhem",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/gunmayham.jpeg",
     "url": "https://silkmajoritydifference.github.io/gun-mayhem-2/"
+  },
+  {
+    "name": "Bloons 4",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons4.jpeg",
+    "url": "https://qst2r.github.io/NEPTUNE-GAMES/btd4/index.html"
+  },
+  {
+    "name": "Gladi Hoppers",
+    "image": "https://qst2r.github.io/NEPTUNE-GAMES/gladihoppers/thumb.png",
+    "url": "https://qst2r.github.io/NEPTUNE-GAMES/gladihoppers/index.html"
   }
 ]
