@@ -1,5 +1,11 @@
 [
   {
+    "name": "Support KittenGames",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/kofi.webp",
+    "url": "https://ko-fi.com/codingkitten",
+    "newtab": true
+  },
+  {
     "name": "Cut The Rope",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png",
     "url": "https://lite.3kh0.net/projects/ctr/"
