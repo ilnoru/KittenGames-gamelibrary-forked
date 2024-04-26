@@ -409,5 +409,20 @@
     "name": "Zombocalypse",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/zombieapocalypse.jpeg",
     "url": "https://car-axke.onrender.com/zombocalypse/index.html"
+  },
+  {
+    "name": "Bloons",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Bloons.swf"
+  },
+  {
+    "name": "Bad Piggies",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/badpiggies.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/selenite-old/main/badpiggies/badpiggies.swf"
+  },
+  {
+    "name": "Minesweeper",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/minesweeper.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Minesweeper.swf"
   }
 ]
