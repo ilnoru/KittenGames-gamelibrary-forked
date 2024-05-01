@@ -424,5 +424,10 @@
     "name": "Minesweeper",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/minesweeper.png",
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Minesweeper.swf"
+  },
+  {
+    "name": "Swords and Souls",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/swordsandsouls.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/swordssouls.swf"
   }
 ]
