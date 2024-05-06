@@ -253,12 +253,14 @@
   {
     "name": "Champion Island",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/championisland.jpg",
-    "url": "https://codingkitten-yt.github.io/in-new-tab/?url=google.com/logos/2020/kitsune/rc7/kitsune20.html"
+    "url": "https://www.google.com/logos/2020/kitsune/rc7/kitsune20.html",
+    "newtab": true
   },
   {
     "name": "Garden Gnomes",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/gardengnome.png",
-    "url": "https://codingkitten-yt.github.io/in-new-tab/?url=google.com/logos/2018/gnomes/gnomes18.html"
+    "url": "https://www.google.com/logos/2018/gnomes/gnomes18.html",
+    "newtab": true
   },
   {
     "name": "Hunter Assasin 2",
@@ -268,7 +270,8 @@
   {
     "name": "Say what you see!",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/SayWhatYOuSee.png",
-    "url": "https://codingkitten-yt.github.io/in-new-tab/?url=artsandculture.google.com/incognito/experiment/jwG3m7wQShZngw"
+    "url": "https://artsandculture.google.com/incognito/experiment/jwG3m7wQShZngw",
+    "newtab": true
   },
   {
     "name": "Oblong",
@@ -278,7 +281,8 @@
   {
     "name": "Sandboxels",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/sandboxels.png",
-    "url": "https://codingkitten-yt.github.io/in-new-tab/?url=sandboxels.r74n.com"
+    "url": "https://sandboxels.r74n.com",
+    "newtab": true
   },
   {
     "name": "Fluid Simulation",
@@ -328,17 +332,14 @@
   {
     "name": "Windows",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/windows-10.png",
-    "url": "https://codingkitten-yt.github.io/in-new-tab/?url=app.apponfly.com/trial"
+    "url": "https://htmlgw3.apponfly.com/rdp/",
+    "newtab": true
   },
   {
     "name": "Linux",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/linux.png",
-    "url": "https://codingkitten-yt.github.io/in-new-tab/?url=distrosea.com"
-  },
-  {
-    "name": "Cookie Clicker",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/cookie-clicker/logo.png",
-    "url": "https://codingkitten-yt.github.io/alu-games/cookie-clicker/"
+    "url": "https://distrosea.com",
+    "newtab": true
   },
   {
     "name": "Death Run",
