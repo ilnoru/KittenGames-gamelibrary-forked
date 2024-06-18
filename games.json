@@ -445,5 +445,10 @@
     "name": "Sausage Flip",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/sausage.png",
     "url": "https://tv2104.github.io/g6/sausage-flip/"
+  },
+  {
+    "name": "Cat Pad",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/catpad.png",
+    "url": "https://tv2104.github.io/g17/catpad"
   }
 ]
