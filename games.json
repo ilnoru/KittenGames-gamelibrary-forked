@@ -71,11 +71,6 @@
     "url": "https://23azostore.github.io/s8/tomb-of-the-mask/"
   },
   {
-    "name": "Smash Karts",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/smashcarts.jpeg",
-    "url": "https://23azostore.github.io/s/smash-karts/"
-  },
-  {
     "name": "Moto X3M",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg",
     "url": "https://3kho.github.io/projects/motox3m/index.html"
@@ -96,11 +91,6 @@
     "url": "https://23azostore.github.io/s4/cats/"
   },
   {
-    "name": "Gold Digger",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/golddigger.jpeg",
-    "url": "https://selenite-cc.github.io/selenite-old/golddiggerfrvr/"
-  },
-  {
     "name": "Tiny Fishing",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tinyfishing.jpeg",
     "url": "https://23azostore.github.io/s/tiny-fishing/"
@@ -116,11 +106,6 @@
     "url": "https://webglmath.github.io/stackbounce/"
   },
   {
-    "name": "1v1 LOL",
-    "image": "https://webglmath.github.io/1v1-lol/logo.png",
-    "url": "https://webglmath.github.io/1v1-lol/"
-  },
-  {
     "name": "Mr Bullet",
     "image": "https://webglmath.github.io/mr-bullet/logo.png",
     "url": "https://webglmath.github.io/mr-bullet/"
@@ -129,11 +114,6 @@
     "name": "Drive Mad",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/drivemad.jpeg",
     "url": "https://ubg77.github.io/game131022/drive-mad/"
-  },
-  {
-    "name": "Mad Gunz",
-    "image": "https://webglmath.github.io/mad-gunz/logo.png",
-    "url": "https://webglmath.github.io/mad-gunz/"
   },
   {
     "name": "Worlds Hardest Game",
@@ -151,11 +131,6 @@
     "url": "https://1727859.github.io/cyanidegames/bitlife/index.html"
   },
   {
-    "name": "Just Fall",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/justfall.png",
-    "url": "https://car-axke.onrender.com/justfalllol/index.html"
-  },
-  {
     "name": "Earn To Die",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/etd.jpeg",
     "url": "https://unblockedgamesworlds.github.io/earn-to-die/"
@@ -171,11 +146,6 @@
     "url": "https://lite.3kh0.net/projects/HexGL/"
   },
   {
-    "name": "Cookie Clicker",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cookieclicker.png",
-    "url": "https://derpmandev.github.io/unblocked-games/cookieclicker/"
-  },
-  {
     "name": "Cube Field",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cubefield.jpeg",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=cubefield.swf"
@@ -189,31 +159,6 @@
     "name": "2048",
     "image": "https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/html5/2048/"
-  },
-  {
-    "name": "Stickman Hook",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/stickman.jpeg",
-    "url": "https://seraph.reveriestudios.online/games/stickmanhook/index.html"
-  },
-  {
-    "name": "Dante",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/dante.png",
-    "url": "https://skoolgq.github.io/Polaris-Assets/dante/"
-  },
-  {
-    "name": "Fruit Ninja",
-    "image": "https://raw.githubusercontent.com/Skoolgq/Polaris-Assets/main/fruit-ninja/FruitNinjaTeaser.jpg",
-    "url": "https://skoolgq.github.io/Polaris-Assets/fruit-ninja/"
-  },
-  {
-    "name": "Townscraper",
-    "image": "https://raw.githubusercontent.com/Skoolgq/Polaris-Assets/main/townscaper/img/sample.png",
-    "url": "https://skoolgq.github.io/Polaris-Assets/townscaper/"
-  },
-  {
-    "name": "Subway Surfers",
-    "image": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
-    "url": "https://skoolgq.github.io/Polaris-Assets/subway-surfers/"
   },
   {
     "name": "Snail Bob 8",
@@ -234,11 +179,6 @@
     "name": "Happy Wheels",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/happywheel.jpeg",
     "url": "https://gamez-ebon.vercel.app/happywheels/"
-  },
-  {
-    "name": "Block Post",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/blockpost.jpeg",
-    "url": "https://76ezgames.github.io/unblocked/blockpost.html"
   },
   {
     "name": "CircloO",
@@ -317,29 +257,7 @@
   {
     "name": "Incredibox",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/incredibox.png",
-    "url": "https://darkreaper231.github.io/Incredibox/"
-  },
-  {
-    "name": "Osu",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/osu.png",
-    "url": "https://webosu.mirrorange.com/"
-  },
-  {
-    "name": "Android",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/google-play.svg",
-    "url": "https://codingkitten-yt.github.io/in-new-tab?url=https://newalgebra.com/apps/aptoide/5874/aptoide.html"
-  },
-  {
-    "name": "Windows",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/windows-10.png",
-    "url": "https://htmlgw3.apponfly.com/rdp/",
-    "newtab": true
-  },
-  {
-    "name": "Linux",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/linux.png",
-    "url": "https://distrosea.com",
-    "newtab": true
+    "url": "https://joalor64gh.github.io/IncrediboxOpenSource/"
   },
   {
     "name": "Death Run",
