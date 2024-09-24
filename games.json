@@ -6,6 +6,46 @@
     "newtab": true
   },
   {
+    "name": "Project Laser",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/projectlaser.png",
+    "url": "https://projectassets.teacherease.net/brawl-stars-project-laser/index.html"
+  },
+  {
+    "name": "Clicker Heroes",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/heroes.jpeg",
+    "url": "https://projectassets.teacherease.net/clicker-heroes-updated/index.html"
+  },
+  {
+    "name": "Cookie Clicker",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cookieclicker.png",
+    "url": "https://projectassets.teacherease.net/cookie-clicker/index.html"
+  },
+  {
+    "name": "Dante",
+    "image": "https://projectassets.teacherease.net/dante/cover.png",
+    "url": "https://projectassets.teacherease.net/dante/index.html"
+  },
+  {
+    "name": "Let's Surf",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/surf.jpeg",
+    "url": "https://projectassets.teacherease.net/edge-surf/index.html"
+  },
+  {
+    "name": "Evowars",
+    "image": "https://projectassets.teacherease.net/evowars/cover.png",
+    "url": "https://projectassets.teacherease.net/evowars/index.html"
+  },
+  {
+    "name": "Funny Shooter 2",
+    "image": "https://projectassets.teacherease.net/funnyshooter2/cover.png",
+    "url": "https://projectassets.teacherease.net/funnyshooter2/index.html"
+  },
+  {
+    "name": "Gunspin",
+    "image": "https://projectassets.teacherease.net/gunspin/cover.png",
+    "url": "https://projectassets.teacherease.net/gunspin/index.html"
+  },
+  {
     "name": "Cut The Rope",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png",
     "url": "https://lite.3kh0.net/projects/ctr/"
