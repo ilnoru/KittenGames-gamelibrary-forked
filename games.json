@@ -285,51 +285,6 @@
     "url": "https://silkmajoritydifference.github.io/gun-mayhem-2/"
   },
   {
-    "name": "Bloons 4",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons4.jpeg",
-    "url": "https://qst2r.github.io/NEPTUNE-GAMES/btd4/index.html"
-  },
-  {
-    "name": "Gladi Hoppers",
-    "image": "https://qst2r.github.io/NEPTUNE-GAMES/gladihoppers/thumb.png",
-    "url": "https://qst2r.github.io/NEPTUNE-GAMES/gladihoppers/index.html"
-  },
-  {
-    "name": "Chibi Knight",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/chibiknight.jpeg",
-    "url": "https://car-axke.onrender.com/chibiknight/index.html"
-  },
-  {
-    "name": "Fireboy and Watergirl",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/fireboyandwatergirl.jpeg",
-    "url": "https://car-axke.onrender.com/fireboywatergirl/index.html"
-  },
-  {
-    "name": "Knife Hit",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/knifehit.png",
-    "url": "https://car-axke.onrender.com/knifehit/index.html"
-  },
-  {
-    "name": "Last Horizon",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/LastHorizonImage.png",
-    "url": "https://car-axke.onrender.com/lasthorizon/index.html"
-  },
-  {
-    "name": "Offline Paradise",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/offlineparadise.png",
-    "url": "https://car-axke.onrender.com/offlineparadise/index.html"
-  },
-  {
-    "name": "Stack",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/stack.png",
-    "url": "https://car-axke.onrender.com/stack/index.html"
-  },
-  {
-    "name": "Zombocalypse",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/zombieapocalypse.jpeg",
-    "url": "https://car-axke.onrender.com/zombocalypse/index.html"
-  },
-  {
     "name": "Bloons",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons.jpeg",
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Bloons.swf"
@@ -358,15 +313,5 @@
     "name": "Rogue Soul 2",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/rogue-soul-2-3755977449.png",
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/roguesoul2.swf"
-  },
-  {
-    "name": "Sausage Flip",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/sausage.png",
-    "url": "https://tv2104.github.io/g6/sausage-flip/"
-  },
-  {
-    "name": "Cat Pad",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/catpad.png",
-    "url": "https://tv2104.github.io/g17/catpad"
   }
 ]
