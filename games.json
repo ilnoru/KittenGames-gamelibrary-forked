@@ -80,6 +80,46 @@
     "url": "https://projectassets.teacherease.net/where-is-the-water/index.html"
   },
   {
+    "name": "Vex",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex1.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex.swf&aspect=1:1"
+  },
+  {
+    "name": "Vex 2",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex2.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex2.swf&aspect=8:7"
+  },
+  {
+    "name": "Vex 3",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex3.jpeg",
+    "url": "https://projectassets.teacherease.net/vex3/index.html"
+  },
+  {
+    "name": "Vex 4",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex4.jpeg",
+    "url": "https://projectassets.teacherease.net/vex4/index.html"
+  },
+  {
+    "name": "Vex 5",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex5.jpeg",
+    "url": "https://projectassets.teacherease.net/vex5/index.html"
+  },
+  {
+    "name": "Vex 6",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex6.jpeg",
+    "url": "https://projectassets.teacherease.net/vex6/index.html"
+  },
+  {
+    "name": "Vex 7",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex7.jpeg",
+    "url": "https://projectassets.teacherease.net/vex7/index.html"
+  },
+  {
+    "name": "Vex 8",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex8.jpeg",
+    "url": "https://projectassets.teacherease.net/vex8/index.html"
+  },
+  {
     "name": "Hobo 1",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo1.jpeg",
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo1.swf"
