@@ -10,6 +10,31 @@
     "url": "https://lite.3kh0.net/projects/cell-machine/"
   },
   {
+    "name": "Draw The Hill",
+    "image": "https://lite.3kh0.net/projects/draw-the-hill/icons/icon-512.png",
+    "url": "https://lite.3kh0.net/projects/draw-the-hill/"
+  },
+  {
+    "name": "Hextris",
+    "image": "https://lite.3kh0.net/projects/hextris/images/hextris-logo.png",
+    "url": "https://lite.3kh0.net/projects/hextris/"
+  },
+  {
+    "name": "Impossible Quiz",
+    "image": "https://lite.3kh0.net/projects/impossiblequiz/impossiblequiz.png",
+    "url": "https://lite.3kh0.net/projects/impossiblequiz/"
+  },
+  {
+    "name": "Kitten Cannon",
+    "image": "https://lite.3kh0.net/projects/kittencannon/kittencannon.png",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/kittencannon.swf"
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "image": "https://lite.3kh0.net/projects/wolf3d/art/wolf3d.png",
+    "url": "https://lite.3kh0.net/projects/wolf3d/"
+  },
+  {
     "name": "Wordle+",
     "image": "https://lite.3kh0.net/projects/wordle/img/logo_512x512.png",
     "url": "https://lite.3kh0.net/projects/wordle/"
