@@ -5,6 +5,11 @@
     "url": "https://interesantedividoelmesa.pimp.co.za/"
   },
   {
+    "name": "Cell Machine",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cellmachine.png",
+    "url": "https://lite.3kh0.net/projects/cell-machine/"
+  },
+  {
     "name": "Wordle+",
     "image": "https://lite.3kh0.net/projects/wordle/img/logo_512x512.png",
     "url": "https://lite.3kh0.net/projects/wordle/"
