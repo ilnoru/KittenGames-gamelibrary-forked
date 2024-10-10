@@ -10,6 +10,11 @@
     "url": "https://tag-2.github.io/a77/tag-2/"
   },
   {
+    "name": "G Switch 3",
+    "image": "https://tag-2.github.io/img/g-switch-3.png",
+    "url": "https://tag-2.github.io/a4/g-switch-3//"
+  },
+  {
     "name": "Cell Machine",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cellmachine.png",
     "url": "https://lite.3kh0.net/projects/cell-machine/"
@@ -248,6 +253,11 @@
     "name": "Slope",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Slope.jpeg",
     "url": "https://23azostore.github.io/s/slope"
+  },
+  {
+    "name": "Slope 3",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Slope.jpeg",
+    "url": "https://tag-2.github.io/a/slope-3/"
   },
   {
     "name": "Monster Tracks",
