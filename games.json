@@ -5,6 +5,26 @@
     "url": "https://interesantedividoelmesa.pimp.co.za/"
   },
   {
+    "name": "Stacktris",
+    "image": "https://tag-2.github.io/img/stacktris.png",
+    "url": "https://tag-2.github.io/a6/stacktris/"
+  },
+  {
+    "name": "Stupid Zombies",
+    "image": "https://tag-2.github.io/img/stupid-zombies.png",
+    "url": "https://tag-2.github.io/a3/stupid-zombies/"
+  },
+  {
+    "name": "Grand Prix Hero",
+    "image": "https://tag-2.github.io/img/grand-prix-hero.png",
+    "url": "https://tag-2.github.io/a4/grand-prix-hero"
+  },
+  {
+    "name": "Idle Ants",
+    "image": "https://tag-2.github.io/img/idle-ants.png",
+    "url": "https://tag-2.github.io/a5/idle-ants/"
+  },
+  {
     "name": "Tag 2",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/tag2.png",
     "url": "https://tag-2.github.io/a77/tag-2/"
@@ -283,6 +303,21 @@
     "name": "Moto X3M",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg",
     "url": "https://3kho.github.io/projects/motox3m/index.html"
+  },
+  {
+    "name": "Moto X3M Pool",
+    "image": "https://tag-2.github.io/img/moto-x3m-pool-party.png",
+    "url": "https://tag-2.github.io/a/moto-x3m-pool-party"
+  },
+  {
+    "name": "Moto X3M Spooky",
+    "image": "https://tag-2.github.io/img/moto-x3m-spooky-land.png",
+    "url": "https://tag-2.github.io/a/moto-x3m-spooky-land/"
+  },
+  {
+    "name": "Moto X3M Winter",
+    "image": "https://tag-2.github.io/img/moto-x3m-winter.png",
+    "url": "https://tag-2.github.io/a/moto-x3m-winter/"
   },
   {
     "name": "Tunnel Rush",
