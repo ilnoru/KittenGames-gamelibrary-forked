@@ -5,6 +5,11 @@
     "url": "https://interesantedividoelmesa.pimp.co.za/"
   },
   {
+    "name": "Picohot",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/picohot.png",
+    "url": "https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/picohot-0.p8.png"
+  },
+  {
     "name": "Stacktris",
     "image": "https://tag-2.github.io/img/stacktris.png",
     "url": "https://tag-2.github.io/a6/stacktris/"
