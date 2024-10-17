@@ -562,5 +562,10 @@
     "name": "Rogue Soul 2",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/rogue-soul-2-3755977449.png",
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/roguesoul2.swf"
+  },
+  { 
+    "name": "Yarn",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/yarn.jpeg",
+    "url": "https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/yarn-0.p8.png"
   }
 ]
